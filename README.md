@@ -1,5 +1,6 @@
 # Lexi-Wu
-Capstone Project for STG.\n
+Capstone Project for STG.
+
 Final_Report.docx is a report of my project, including all stages and outcomes.
 Capstone PPT.pptx is the slides for my report.
 dataset.zip is a copy of my dataset but only part of the original dataset with only 100 pics for each group of each set.
