@@ -16,3 +16,25 @@ Stage_3(Python TkInter).py is the stage 3 part of the project using TkInter in P
 keras_model.h5 is one of the file for teachable machine.
 
 labels.txt is one of the file for teachable machine.
+
+Challenge Activities.
+
+wk7-challenge1-console.py is the console file for the challenge activity of week 7.
+
+wk7-challenge1-GUI.py is the GUI file for the challenge activity of week 7.
+
+words_report is the file generated from the challenge activity of week 7.
+
+wk9-challenge1.py is the file for the first challenge activity of week 9.
+
+wk9-challenge21.py is the file for the second challenge activity of week 9.
+
+Library_and_Book_Class.py is the class function for the challenge activity of week 9.
+
+wk10-challenge1.py is the file for the challenge activity of week 10.
+
+mobile_tester.py is the file for the challenge activity of week 11.
+
+mobile.py is the class function for the challenge activity of week 11.
+
+Test for the phone program is the picture of the output of the mobile_tester file.
